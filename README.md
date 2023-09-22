@@ -1,4 +1,4 @@
-# Projeto Modulo 3 - Cubos Academy
+# Projeto - Cubos Academy
 
 Projeto de banco de dados do Módulo 3 da Cubos Academy! Este repositório contém todos os recursos e informações necessárias para entender e executar nosso banco de dados criado como parte deste curso.´
 
